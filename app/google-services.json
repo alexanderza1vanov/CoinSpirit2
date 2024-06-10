@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097995598178",
+    "project_id": "coinspirit-firebase",
+    "storage_bucket": "coinspirit-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097995598178:android:26a256deb4db8ba101543b",
+        "android_client_info": {
+          "package_name": "com.example.coinspirit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfimYN2KV8x5uxbLxpZbC7i5t4dIyD5CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
